@@ -1,4 +1,5 @@
-# emergence-of-new-strain-SIR-model
+The impact of vaccination on the emergence of new strains- SIR model
+
 Welcome everyone !
 Here is the code I computed for my master thesis at the universities of Fribourg and Berne in Switzerland for the master of Science in Bioinformatics and Computational Biology.
 
